@@ -1,0 +1,10 @@
+{
+  "name": "ts43bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.0-dev.20210602"
+  },
+  "type": "module"
+}
